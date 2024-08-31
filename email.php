@@ -6,7 +6,7 @@
     $message = $_POST["message"];
 
     // Send email using PHPMailer or SMTP plugin
-    $to = "recipient@example.com";
+    $to = "achiengaotieno65@gmail.com";
     $subject = "Contact Form Submission";
     $body = "Name: $name\nEmail: $email\nMessage: $message";
 
